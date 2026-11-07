@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "808799875043",
+    "firebase_url": "https://smart-irrigation-b9260-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-irrigation-b9260",
+    "storage_bucket": "smart-irrigation-b9260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808799875043:android:2e83b6709f82d10624fad6",
+        "android_client_info": {
+          "package_name": "com.example.smart_irr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYrggwqrrKsxJHM-6crh6N9q8m5B-bysY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
